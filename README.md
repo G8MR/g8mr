@@ -5,4 +5,3 @@ My hobbies are to write, read, cube, play around with Lego, listen to music, pla
 I'm currently working on CoreAI, a simple Python text-bot, as well as Patronium, my very own Python-based programming language.
 
 <p align="center"><a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=G8MR&show_icons=true&theme=dark"></a></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G8MR)](https://github.com/anuraghazra/github-readme-stats)
