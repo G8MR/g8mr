@@ -6,6 +6,6 @@ I'm currently working on CoreAI, a simple Python text-bot, as well as PyEncrypte
 
 <p align="center"><a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=G8MR&show_icons=true&theme=dark"></a><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g8mr&theme=dark"></p>
 
-Reddit - https://www.reddit.com/user/AwesomeYoungCoder/
-Discord - G8MR#0899
-Xbox ID - G8MR#6932
+Reddit - https://www.reddit.com/user/AwesomeYoungCoder/<br>
+Discord - G8MR#0899<br>
+Xbox ID - G8MR#6932<br>
