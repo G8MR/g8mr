@@ -5,3 +5,7 @@ My hobbies are to write, read, cube, play around with Lego, listen to music, pla
 I'm currently working on CoreAI, a simple Python text-bot, as well as PyEncrypter, an open-source Python encryption/decryption library.
 
 <p align="center"><a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=G8MR&show_icons=true&theme=dark"></a><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g8mr&theme=dark"></p>
+
+Reddit - https://www.reddit.com/user/AwesomeYoungCoder/
+Discord - G8MR#0899
+Xbox ID - G8MR#6932
