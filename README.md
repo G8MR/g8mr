@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm G8MR, a teenage developer who likes cubing, maths (Yes, you read it right!) and is TOTALLY obsessed with Harry Potter (a bit obsessed with Star Wars as well, to be honest).
+I'm G8MR, a teenage developer who likes cubing, maths (Yes, you read it right!) and is obsessed with Steven He.
 I work mainly on Python, but nevertheless I'm also working on web development - that is, HTML, CSS and JavaScript - as well as game development.
 My hobbies are to write, read, cube, play around with Lego, listen to music, play chess, solve tough and mind-boggling riddles, as well as play the piano.
 I'm currently working on PyEncrypter, an open-source Python encryption/decryption library.
